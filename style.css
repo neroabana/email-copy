@@ -1,0 +1,146 @@
+#container{
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;    
+  overflow: hidden;
+}
+
+header{
+  height: 99px;
+ 
+}
+
+#mid-section{
+  background-color: #ECECEC;
+  width: 827px;
+  height: 1550px;
+  text-align: center;
+}
+
+#s1{
+  color: #6E6D6D;
+  font-size: 3em;
+  font-weight: bold;
+  font-family: "arial";
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+#s2{
+  color: #6E6D6D;
+  font-size: 2.2em;
+  font-style: italic;
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+#s3{
+  color: #6E6D6D;
+  font-size: 2.2em;
+  font-style: italic;
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+#s4{
+  color: #6E6D6D;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#s41{
+  color: #FF7171;
+  font-family: "verdana";
+  text-shadow: 1px 1px #6E6D6D;
+}
+
+#s5{
+  color: #6E6D6D;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: verdana;
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+#s6{
+  color: #6E6D6D;
+  font-size: 2.8em;
+  font-weight: bold;
+  font-family: "helvetica";
+  background-color: #FFAA71;
+}
+
+#s7{
+  color: #6E6D6D;
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+#s71{  
+  text-decoration: underline;
+}
+
+#s8{
+  color: #6E6D6D;
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+#s81{
+  text-decoration: underline;
+}
+
+#s9{
+  color: #6E6D6D;
+  font-size: 1.6em;
+  font-weight: bold;
+  font-family: "verdana";
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+#s10{
+  color: #6E6D6D;
+  font-size: 2.5em;
+  font-weight: bold;
+  font-family: helvetica;
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+#s101{
+  background-color: #FFAA71; 
+  text-shadow: 1px 1px #FFAA71;
+}
+
+#s11{
+  color: #FF7171;
+  font-size: 2.5em;
+  font-weight: bold;
+  font-family: "arial";
+  text-shadow: 1px 1px #6E6D6D;
+}
+
+#s12{
+  color: #6E6D6D;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: "arial";
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+#s13{
+  color: #6E6D6D;
+  font-size: 1.5em;
+  font-weight: bold;
+  font-style: italic;
+  text-shadow: 1px 1px #FFFFFF;
+}
+
+footer{
+  color: #6E6D6D;
+  font-size: .9em;
+}
+
+a{
+  color: #FF7171;
+}
