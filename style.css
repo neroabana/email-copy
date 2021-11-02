@@ -1,4 +1,3 @@
-
 #container{
   margin: auto;
   display: flex;
@@ -33,7 +32,6 @@ header{
   font-style: italic;
   text-shadow: 1px 1px #FFFFFF;
 }
-
 
 #s3{
   color: #6E6D6D;
